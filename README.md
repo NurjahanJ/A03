@@ -1,29 +1,29 @@
 #A03
 
 ## Directions on Using Webstorm and GIT:
-1. Visit https://git-scm.com/downloads and download GIT.
-2. Visit https://www.jetbrains.com/community/education/#students and create a Jetbrain account.
-4. Download WebStorm after getting Jetbrain verification.
-4. Create a GitHub account at https://github.com/.
-5. Open WebStorm and create a new project.
-6. Modify the code of your project as desired.
-7. Create a GIT repository for your project, then commit the changes you made.
-8. Add your project to GitHub.
-9. Create a readme.md file on GitHub for your project.
-10. Go back to WebStorm and make additional changes to your project code as desired.
-11. Commit and push the changes you made in WebStorm to GitHub.
+- Visit https://git-scm.com/downloads and download GIT.
+- Visit https://www.jetbrains.com/community/education/#students and create a Jetbrain account.
+- Download WebStorm after getting Jetbrain verification.
+- Create a GitHub account at https://github.com/.
+- Open WebStorm and create a new project.
+- Modify the code of your project as desired.
+- Create a GIT repository for your project, then commit the changes you made.
+- Add your project to GitHub.
+- Create a readme.md file on GitHub for your project.
+- Go back to WebStorm and make additional changes to your project code as desired.
+- Commit and push the changes you made in WebStorm to GitHub.
 
 ## Directions on Useing GitHub:
-1. To start, create a new repository on GitHub.
-2. Give your repository a name and description.
-3. Add a README file to your repository.
-4. Make your repository public, then select "Create repository" to create it.
-5. From the Code tab, create a new branch for your changes.
-6. Edit the file(s) that you want to modify in your branch.
-7. Commit your changes, and be sure to include a descriptive commit message.
-8. Create a pull request to propose your changes to the original codebase, and include a description of the changes.
-9.  After review, merge your pull request into the original codebase.
-10. Finally, delete the branch that you just merged into the main branch.
+- To start, create a new repository on GitHub.
+- Give your repository a name and description.
+- Add a README file to your repository.
+- Make your repository public, then select "Create repository" to create it.
+- From the Code tab, create a new branch for your changes.
+- Edit the file(s) that you want to modify in your branch.
+- Commit your changes, and be sure to include a descriptive commit message.
+- Create a pull request to propose your changes to the original codebase, and include a description of the changes.
+- After review, merge your pull request into the original codebase.
+- Finally, delete the branch that you just merged into the main branch.
 
 
 ## Glossary Definatations:
