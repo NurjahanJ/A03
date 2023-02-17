@@ -28,7 +28,7 @@
 
 ## Glossary Definatations:
 
--**Branch**: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
+-_Branch_: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
 
 -**Clone**: To create a local copy of a repository on your machine so that you can work on it locally.
 
