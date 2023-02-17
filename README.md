@@ -1,11 +1,32 @@
-PART 1: Directions on Using Webstorm.
+#A03
 
-Add a step by step set of directions. Include URLs of any downloaded software. 
+## Directions on Using Webstorm and GIT:
+1. Visit https://git-scm.com/downloads and download GIT.
+2. Visit https://www.jetbrains.com/community/education/#students and create a Jetbrain account.
+4. Download WebStorm after getting Jetbrain verification.
+4. Create a GitHub account at https://github.com/.
+5. Open WebStorm and create a new project.
+6. Modify the code of your project as desired.
+7. Create a GIT repository for your project, then commit the changes you made.
+8. Add your project to GitHub.
+9. Create a readme.md file on GitHub for your project.
+10. Go back to WebStorm and make additional changes to your project code as desired.
+11. Commit and push the changes you made in WebStorm to GitHub.
 
- 
+## Directions on Useing GitHub:
+1. To start, create a new repository on GitHub.
+2. Give your repository a name and description.
+3. Add a README file to your repository.
+4. Make your repository public, then select "Create repository" to create it.
+5. From the Code tab, create a new branch for your changes.
+6. Edit the file(s) that you want to modify in your branch.
+7. Commit your changes, and be sure to include a descriptive commit message.
+8. Create a pull request to propose your changes to the original codebase, and include a description of the changes.
+9.  After review, merge your pull request into the original codebase.
+10. Finally, delete the branch that you just merged into the main branch.
 
 
-Part 2: Glossary
+## Glossary Definatations:
 
 -**Branch**: A separate copy of the codebase that allows developers to work on different features or changes simultaneously without affecting the main codebase.
 
