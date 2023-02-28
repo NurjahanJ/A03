@@ -13,7 +13,7 @@
 - Go back to WebStorm and make additional changes to your project code as desired.
 - Commit and push the changes you made in WebStorm to GitHub.
 
-## Directions on Useing GitHub:
+## Directions on Using GitHub:
 - To start, create a new repository on GitHub.
 - Give your repository a name and description.
 - Add a README file to your repository.
